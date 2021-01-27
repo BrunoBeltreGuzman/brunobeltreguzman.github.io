@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/dev-folio/static/js/main.1aaa1529.chunk.js",
-    "main.js.map": "/dev-folio/static/js/main.1aaa1529.chunk.js.map",
-    "runtime-main.js": "/dev-folio/static/js/runtime-main.32ac5ba1.js",
-    "runtime-main.js.map": "/dev-folio/static/js/runtime-main.32ac5ba1.js.map",
-    "static/js/2.1f4ecef1.chunk.js": "/dev-folio/static/js/2.1f4ecef1.chunk.js",
-    "static/js/2.1f4ecef1.chunk.js.map": "/dev-folio/static/js/2.1f4ecef1.chunk.js.map",
-    "static/js/3.f93cc240.chunk.js": "/dev-folio/static/js/3.f93cc240.chunk.js",
-    "static/js/3.f93cc240.chunk.js.map": "/dev-folio/static/js/3.f93cc240.chunk.js.map",
-    "index.html": "/dev-folio/index.html",
-    "static/js/2.1f4ecef1.chunk.js.LICENSE.txt": "/dev-folio/static/js/2.1f4ecef1.chunk.js.LICENSE.txt"
+    "main.js": "/brunobeltreguzman.github.io/static/js/main.1aaa1529.chunk.js",
+    "main.js.map": "/brunobeltreguzman.github.io/static/js/main.1aaa1529.chunk.js.map",
+    "runtime-main.js": "/brunobeltreguzman.github.io/static/js/runtime-main.a0f14a94.js",
+    "runtime-main.js.map": "/brunobeltreguzman.github.io/static/js/runtime-main.a0f14a94.js.map",
+    "static/js/2.1f4ecef1.chunk.js": "/brunobeltreguzman.github.io/static/js/2.1f4ecef1.chunk.js",
+    "static/js/2.1f4ecef1.chunk.js.map": "/brunobeltreguzman.github.io/static/js/2.1f4ecef1.chunk.js.map",
+    "static/js/3.f93cc240.chunk.js": "/brunobeltreguzman.github.io/static/js/3.f93cc240.chunk.js",
+    "static/js/3.f93cc240.chunk.js.map": "/brunobeltreguzman.github.io/static/js/3.f93cc240.chunk.js.map",
+    "index.html": "/brunobeltreguzman.github.io/index.html",
+    "static/js/2.1f4ecef1.chunk.js.LICENSE.txt": "/brunobeltreguzman.github.io/static/js/2.1f4ecef1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32ac5ba1.js",
+    "static/js/runtime-main.a0f14a94.js",
     "static/js/2.1f4ecef1.chunk.js",
     "static/js/main.1aaa1529.chunk.js"
   ]
