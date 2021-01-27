@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dev-folio/static/js/main.14edded0.chunk.js",
+    "main.js.map": "/dev-folio/static/js/main.14edded0.chunk.js.map",
+    "runtime-main.js": "/dev-folio/static/js/runtime-main.0986a490.js",
+    "runtime-main.js.map": "/dev-folio/static/js/runtime-main.0986a490.js.map",
+    "static/js/2.3e094827.chunk.js": "/dev-folio/static/js/2.3e094827.chunk.js",
+    "static/js/2.3e094827.chunk.js.map": "/dev-folio/static/js/2.3e094827.chunk.js.map",
+    "static/js/3.abf18772.chunk.js": "/dev-folio/static/js/3.abf18772.chunk.js",
+    "static/js/3.abf18772.chunk.js.map": "/dev-folio/static/js/3.abf18772.chunk.js.map",
+    "index.html": "/dev-folio/index.html",
+    "static/js/2.3e094827.chunk.js.LICENSE.txt": "/dev-folio/static/js/2.3e094827.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0986a490.js",
+    "static/js/2.3e094827.chunk.js",
+    "static/js/main.14edded0.chunk.js"
+  ]
+}
