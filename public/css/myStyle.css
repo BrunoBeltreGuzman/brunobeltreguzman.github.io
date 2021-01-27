@@ -1,0 +1,52 @@
+.mybg-dark {
+       background-color: rgb(0, 0, 0);
+}
+
+.lenguage {
+       color: rgb(202, 159, 17);
+       font-weight: bold;
+}
+
+.seccionComent-1 {
+       padding: 15px;
+       width: 100%;
+       height: 500px;
+       overflow: auto;
+       border: 0px solid #ccc;
+}
+
+.btnGitHub {
+       color: rgb(61, 61, 61);
+       font-weight: bold;
+}
+
+.btnGitHub:hover {
+       color: #075af3;
+       text-decoration: none;
+       transition: all 0.5s ease-in-out;
+}
+
+.myfooter {
+       color: rgb(0, 0, 0);
+}
+
+.feedback-button {
+       height: 40px;
+       border: solid 3px #000000;
+       background-color: rgb(255, 255, 255);
+       color: rgb(0, 0, 0);
+       width: 100px;
+       line-height: 32px;
+       -webkit-transform: rotate(-90deg);
+       font-weight: 600;
+       text-align: center;
+       font-size: 17px;
+       position: fixed;
+       right: -40px;
+       top: 45%;
+       z-index: 999;
+}
+
+.gitItem {
+       font-size: 13px;
+}
